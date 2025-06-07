@@ -47,7 +47,7 @@ To build a machine learning model that predicts **Customer Lifetime Value (CLV)*
 
 ## 📷 Sample Visualization
 
-![CLV Distribution](images/clv_distribution.png)  
+![CLV Distribution](https://github.com/anshu7485/Celebal-Weak-1st-Task/blob/main/output.png)  
 *(Add your image in `/images` folder and replace filename here)*
 
 ---
